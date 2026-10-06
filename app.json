@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "expo-router-getstate-repro",
+    "slug": "expo-router-getstate-repro",
+    "scheme": "repro",
+    "plugins": ["expo-router"]
+  }
+}

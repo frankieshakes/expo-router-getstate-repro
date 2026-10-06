@@ -1,0 +1,32 @@
+{
+  "name": "expo-router-getstate-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "58.0.3",
+    "expo-constants": "58.0.9",
+    "expo-linking": "58.0.10",
+    "expo-router": "58.0.13",
+    "react": "19.3.0",
+    "react-native": "0.88.0-rc.3",
+    "react-native-safe-area-context": "5.9.1",
+    "react-native-screens": "4.28.0"
+  },
+  "devDependencies": {
+    "@react-native/jest-preset": "0.88.0-rc.3",
+    "@testing-library/react-native": "^14.0.1",
+    "@types/react": "~19.3.0",
+    "jest": "~30.5.2",
+    "jest-expo": "58.0.7",
+    "typescript": "~6.0.3"
+  },
+  "overrides": {
+    "react-dom": "19.3.0"
+  }
+}
